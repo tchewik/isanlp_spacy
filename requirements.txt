@@ -1,0 +1,2 @@
+protobuf==3.19.0
+spacy==3.3.1

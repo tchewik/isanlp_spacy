@@ -1,0 +1,1 @@
+docker build -t tchewik/isanlp_spacy:ru .
